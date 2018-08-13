@@ -1,2 +1,2 @@
-# nodejs-study
-This a simple nodejs project.
+# nodejs-study (Node.js学习)
+This a simple nodejs study project.
